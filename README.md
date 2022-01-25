@@ -4,4 +4,4 @@ If you are working with a partner, only one of you have to submit a project. To 
 
 When you're done, be sure to commit and push your project onto GitHub.
 
-DUE DATE: June 16, 2021
+DUE DATE: June 16, 2021 
